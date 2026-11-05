@@ -1,0 +1,74 @@
+[
+  {
+    "id": "KH01",
+    "username": "khach1",
+    "password": "123456",
+    "name": "Lê Ngọc Thảo Nhi",
+    "phone": "0908231354",
+    "email": "khach1@gmail.com",
+    "address": "43 Nguyễn Thị Căn, Q12, TP.HCM"
+  },
+  {
+    "id": "KH02",
+    "username": "khach2",
+    "password": "123456",
+    "name": "Nguyễn Huỳnh Sơn",
+    "phone": "0909756640",
+    "email": "khach2@gmail.com",
+    "address": "12 Đống Đa, Hà Nội"
+  },
+  {
+    "id": "KH03",
+    "username": "khach3",
+    "password": "123456",
+    "name": "Trần Anh Khoa",
+    "phone": "0909365479",
+    "email": "khach3@gmail.com",
+    "address": "8 Lê Hồng Phong, Q5, TP.HCM"
+  },
+  {
+    "id": "KH04",
+    "username": "khach4",
+    "password": "123456",
+    "name": "Hà An Huy",
+    "phone": "0855444555",
+    "email": "khach4@gmail.com",
+    "address": "55 Cách Mạng Tháng 8, Q3, TP.HCM"
+  },
+  {
+    "id": "KH05",
+    "username": "khach5",
+    "password": "123456",
+    "name": "Võ Bảo Trân",
+    "phone": "0977553210",
+    "email": "khach5@gmail.com",
+    "address": "66 Hai Bà Trưng, Q1, TP.HCM"
+  },
+  {
+    "id": "KH06",
+    "username": "khach6",
+    "password": "123456",
+    "name": "Phan Trà My",
+    "phone": "0908446201",
+    "email": "khach6@gmail.com",
+    "address": "90 Quang Trung, Q.Gò Vấp, TP.HCM"
+  },
+  {
+    "id": "KH07",
+    "username": "khach7",
+    "password": "123456",
+    "name": "Trần Lê Yến Trang",
+    "phone": "0369777888",
+    "email": "khach7@gmail.com",
+    "address": "20 Nguyễn Thị Minh Khai, Q3, TP.HCM"
+  },
+  {
+    "id": "KH08",
+    "username": "khach8",
+    "password": "123456",
+    "name": "Trần Phan Quốc Bảo",
+    "phone": "0798888999",
+    "email": "khach8@gmail.com",
+    "address": "3 Hoàng Diệu, Q.4"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "NV01",
+    "username": "admin",
+    "password": "ad123",
+    "name": "Nguyễn Quỳnh Anh",
+    "role": "admin",
+    "phone": "0903552278",
+    "email": "anhnq.ad@shop.vn"
+  },
+  {
+    "id": "NV02",
+    "username": "nhanvien1",
+    "password": "nv123",
+    "name": "Trịnh Mỹ Anh",
+    "role": "staff",
+    "phone": "0908644012",
+    "email": "anhtm.nv@shop.vn"
+  },
+  {
+    "id": "NV03",
+    "username": "nhanvien2",
+    "password": "nv123",
+    "name": "Hà Trúc Linh",
+    "role": "staff",
+    "phone": "0989732115",
+    "email": "linhth.nv@shop.vn"
+  }
+]
