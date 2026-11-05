@@ -6,8 +6,8 @@ Website bán hàng giả lập: dữ liệu sản phẩm lấy từ fakestoreapi
 
 ## Link
 
-- Trang web (GitHub Pages):
-- Mã nguồn (GitHub): 
+- Trang web (GitHub Pages): https://tranlbk24413e-ship-it.github.io/bw08-uelshop/
+- Mã nguồn (GitHub): https://github.com/tranlbk24413e-ship-it/bw08-uelshop.git
 
 ## Cách chạy
 
